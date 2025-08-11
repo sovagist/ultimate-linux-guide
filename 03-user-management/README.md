@@ -120,3 +120,7 @@ Then add:
 ```bash
 username ALL=(ALL) NOPASSWD: /path/to/command
 ```
+### for SSH
+```bash
+ssh usename@(ip address or website name) -p (port number(if not given it defaults to port 22))
+```
